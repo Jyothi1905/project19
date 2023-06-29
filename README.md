@@ -6,7 +6,7 @@ This is a web based application developed for health based website in india
 
 
 **Project Link** - https://purple-tree-0ad6db700.3.azurestaticapps.net/
-**Project demo video Link** -
+**Project demo video Link** -https://youtube.com/watch?v=PjdpgrFD8PE&feature=share7
 
 **Azure technologies used for project**
 1. Static web apps
